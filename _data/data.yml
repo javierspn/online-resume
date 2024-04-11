@@ -93,27 +93,43 @@ experience:
   title: Experience
   description:
   items:
-    - company: Second Company
+    - company: Transportation engineering company
       link: '#'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: 2023 - 2024
+      role: Linux administrator / Systems architect
+      location: Madrid
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        This company supports and implements IT and communication platforms for mass transit systems: subway, toll, public roads, tunnels, etc. 
+        I help and assist a group of Junior technicians. I am designing the IT architecture on an ongoing tunnel transportation system project. 
+        I also assist and design the IT architecture of various UK and US based toll locations and subway and transportation Spanish-based systems.
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+        Technologies:
+
+        + Oracle cloud.
+        + KVM, Proxmox, Hyper V, vSphere, Docker.
+        + Bash, Git, Ansible.
+        + Debian, RHEL, Oracle Linux, Windows Server.
+  
+    - company: Nexthink
+      link: https://www.nexthink.com/
+      tags: Full time, remote
+      date: 2021 - 2022
+      role: Scripting / Team Leader
+      location: Madrid
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Nexthink is a company whose products help automate most of the repetitive tasks that L1 and L2 IT departments execute. A combination of SCCM, Puppet, a L1 human agent and IA with chat to help users and IT departments with their daily technical issues.
+        I managed a small team of hybrid developers/sysadmins, and code automated solutions in PowerShell and bash, from helping a user with his slow performing mail client to replace a vulnerable Tomcat file on all desktop machines. 
+        
+        Technologies:
+
+        + Microsoft services: DNS, DHCP, Active directory, GPOs.
+        + Virtualization and servers: Windows Server, RHEL, vSphere
+        + Bash, PowerShell, Python, YAML, JSON, Git.
+        + Operating systems: Windows 10, Windows 11, MacOS.
+        + Agile, Scrum.
+
+
 
 project:
   show: false
