@@ -118,7 +118,7 @@ experience:
         + Second
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   description: |
