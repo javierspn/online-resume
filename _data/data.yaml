@@ -501,27 +501,27 @@ language:
   title: Languages
   description: 
   items:
-    - idiom: Chinese
+    - idiom: Spanish
       level: Native
     - idiom: English
-      level: Professional
+      level: Business
 
 interest:
   show: true
   order: 12
   title: Interests
   description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
+    Plants and animals. Everything alive and moving, actually. 
+    I enjoy long hikes learning about new plants and its properties and observing animal behaviour. I have courses on Plant and Algae biology and Herbal medicine and I can easily identify medical properties for many species of plants in the wild and those who are edible.
+    I am passionate about IT and I have a homelab with some services published on the web for internal use.
 
   items:
-    - item: Reading
-      link: '#'
-    - item: Cooking
+    - item: Plants and nature.
+      link: 
+    - item: Hiking
       link:
+    - item: Homelab
+      link: https://www.reddit.com/r/homelab/
 
 evaluation:
   show: false
