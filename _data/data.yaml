@@ -375,7 +375,7 @@ education:
       degree: Master
       description:
 
-certifications:
+certificate:
   show: true
   order: 6
   title: Certifications
