@@ -96,11 +96,11 @@ experience:
     - company: Transportation engineering company
       link: '#'
       tags: Full-time
-      date: 2023 - 2024
-      role: Linux administrator / Systems architect
+      date: 2023 +
+      role: Linux administrator & Systems architect
       location: Madrid
       description: |
-        This company supports and implements IT and communication platforms for mass transit systems: subway, toll, public roads, tunnels, etc. 
+        This company supports and implements IT and communication platforms for mass transit systems: subway, toll, public roads, tunnels, etc.
         I help and assist a group of Junior technicians. I am designing the IT architecture on an ongoing tunnel transportation system project. 
         I also assist and design the IT architecture of various UK and US based toll locations and subway and transportation Spanish-based systems.
 
@@ -114,11 +114,12 @@ experience:
     - company: Nexthink
       link: https://www.nexthink.com/
       tags: Full time, remote
-      date: 2021 - 2022
-      role: Scripting / Team Leader
+      date: 2021 +1
+      role: Script developer & Team Leader
       location: Madrid
       description: |
         Nexthink is a company whose products help automate most of the repetitive tasks that L1 and L2 IT departments execute. A combination of SCCM, Puppet, a L1 human agent and IA with chat to help users and IT departments with their daily technical issues.
+
         I managed a small team of hybrid developers/sysadmins, and code automated solutions in PowerShell and bash, from helping a user with his slow performing mail client to replace a vulnerable Tomcat file on all desktop machines. 
         
         Technologies:
@@ -129,7 +130,150 @@ experience:
         + Operating systems: Windows 10, Windows 11, MacOS.
         + Agile, Scrum.
 
+    - company: Sopra Steria
+      link: https://www.soprasteria.com/
+      tags: Full time, remote
+      date: 2018 +3
+      role: Systems architect & Sysadmin
+      location: Madrid
+      description: |
+        Sopra provides a multitude of services focused on the IT business: development, infrastructure support, cybersecurity and systems operations.
 
+        I was a senior Sysadmin and architect for an oil and gas industry Norwegian company, managing its distributed datacenters on Oslo and Trondheim. I implemented new systems, processes, managed the storage solution, clustered Microsoft services (DNS, DHCP, IIS, AD, DFS) and attended L3 support requests when necessary. Our team was located on Norway except for the senior Sysadmins, located on Spain.
+
+        Technologies:
+
+        + DNS, DHCP, Active directory, GPOs, WSUS.
+        + DFS, Spectrum Scale.
+        + Windows Server, RHEL, vSphere
+        + Bash, PowerShell.
+
+    - company: Prosodie
+      link: https://www.prosodie.es/
+      tags: Full time, remote
+      date: 2016 +2
+      role: Systems architect & Sysadmin
+      location: Madrid
+      description: |
+        Prosodie is a MSP: development, infrastructure support and systems operations.
+
+        Here I managed the infrastructure of a major telecom operator in the Spanish market, with a focus on their vSphere and Wintel infrastructure. I attended also L2 and L3 support cases. 
+
+        Technologies:
+
+        + DNS, DHCP, Active directory, GPOs, WSUS.
+        + Windows Server, vSphere.
+        + PowerShell.
+
+    - company: BNP
+      link: https://www.bnpparibas.es/en/
+      tags: Full time.
+      date: 2014 +2
+      role: Systems architect & Sysadmin
+      location: Madrid, London
+      description: |
+        BNP is a multinational bank with presence in Spain.
+
+        Here I managed the infrastructure of the Bank hosted in France and London. The core of my responsibilities was assisting the team on the handover of IT operations from the London team to the Spanish team. Additionally I managed a farm of virtual servers and the automated virtual machine delivery system.
+ 
+        Technologies:
+
+        + DNS, DHCP, Active directory, GPOs, WSUS.
+        + Windows Server, vSphere.
+        + WSUS, LEMMS.
+        + PowerShell.
+
+    - company: SGAIM
+      link: https://www.sgaim.com/
+      tags: Full time.
+      date: 2011 +3
+      role: Team Leader & Systems architect & Sysadmin
+      location: Madrid
+      description: |
+        SGAIM specializes on digital transformation and document management for its customers.
+
+        I was hired here to lead the transformation of the IT infrastructure. It was composed of separate datacenters and locations, some of them overseas. Redundancy, high availability and disaster recovery for the whole infrastructure was designed and implemented. I was in charge of the design, implementation, IT team and budget.
+
+        Technologies:
+
+        + DNS, DHCP, Active directory, GPOs, WSUS.
+        + Windows Server, RHEL.
+        + vSphere, Hyper V, Xen Server.
+        + WSUS.
+        + Cisco switching.
+        + Brocade FC switching, EMC VNX, HP Eva.
+        + PowerShell.
+
+    - company: Mr Houston
+      link: https://mrhouston.net/en/
+      tags: Full time.
+      date: 2009 +2
+      role: Systems architect & Sysadmin
+      location: Madrid
+      description: |
+        Mr Houston is a MSP.
+        
+        Here I managed and designed solutions for SOHO customers. Additionally I coordinated the migration from one of our major customers after a merge.
+
+        Technologies:
+        
+        + Microsoft services: DNS, DHCP, Active directory, GPOs, WSUS.
+        + DFS, NFS.
+        + Windows Server, vSphere, Hyper V.
+        + MacOS, OSX Server.
+
+    - company: Zasylogic
+      link: https://zasylogic.com/
+      tags: Full time.
+      date: 2007 +2
+      role: Sysadmin & application support
+      location: Madrid
+      description: |
+        Zasylogic builds and maintains call center software and SaaS call center solutions.
+        
+        Here I managed the internal IT infrastructure and the co-located SaaS services' infrastructure. Additionally i provided application support for the core application developed by Zasylogic.
+
+        Technologies:
+        
+        + Microsoft services: DNS, DHCP, Active directory, GPOs, WSUS.
+        + DFS, NFS.
+        + Windows Server.
+        + vSphere.
+
+    - company: Accelya
+      link: https://w3.accelya.com/
+      tags: Full time.
+      date: 2002 +5
+      role: Application support & migration support
+      location: Madrid, Austria
+      description: |
+        Accelya provides airline billing software and related tools for billing settlement.
+
+        Here I provided support for internal billing applications. I also was involved on the migration and upgrade of legacy billing systems.
+
+        Technologies:
+        
+        + DNS, DHCP, Active directory.
+        + Bash.
+        + DFS, NFS.
+        + Windows Server. 
+        + vSphere.
+
+    - company: IECISA (acquired by INETUM)
+      link: https://www.inetum.com/en
+      tags: Full time.
+      date: 1999 +3
+      role: Application support
+      location: Madrid
+      description: |
+        IECISA was an MSP and tech equipment vendor.
+
+        Here I provided support for internal courier and inventory applications for the IT assets.
+
+        Technologies:
+        
+        + Bash.
+        + Windows. 
 
 project:
   show: false
@@ -269,7 +413,7 @@ certifications:
         It's my Example Certificate Two by Example.
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
   description: |
@@ -355,11 +499,7 @@ language:
   show: true
   order: 11
   title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
+  description: 
   items:
     - idiom: Chinese
       level: Native
