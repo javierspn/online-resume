@@ -389,18 +389,16 @@ certificate:
     The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
 
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+    - name: ACTC (Apple certified technical coordinator)
+      issuer: Apple
+      date: 2010
+      link: 'https://www.apple.com/ca/education/docs/Apple-TrainingCertificationCatalogWeb.pdf'
+      description:
+    - name: MCSA (Microsoft certified solutions associate)
+      issuer: Microsoft
+      date: 2009
+      link: 'https://learn.microsoft.com/es-es/credentials/certifications/posts/mcsa-mcsd-mcse-certifications-retire-with-continued-investment-to-role-based-certifications'
+      description:
 
 publication:
   show: false
