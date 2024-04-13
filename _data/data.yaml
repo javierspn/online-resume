@@ -102,7 +102,7 @@ experience:
       role: Linux administrator & Systems architect
       location: Madrid
       description: |
-        As part of the IT team at this company, I am proud to contribute my skills and expertise to the implementation and maintenance of IT and communication platforms for complex transportation systems, including subways, tolls, public roads, and tunnels. I am honored to work alongside a talented group of junior technicians, providing guidance and support as we collaborate on the design and implementation of IT architecture for ongoing transportation projects. My role also includes contributing to the design of IT architecture for various UK and US-based toll locations and subway and transportation systems in Spain. I am committed to delivering high-quality work and continuously improving my skills and knowledge to better serve the needs of the team and the organization. I am grateful for the opportunity to work on such important projects and to collaborate with a diverse group of professionals who share my passion for technology and innovation
+        As part of the IT team at this company, I am proud to contribute my skills and expertise to the implementation and maintenance of IT and communication platforms for complex transportation systems, including subways, tolls, public roads, and tunnels. I work alongside a group of junior technicians, providing guidance and support as we collaborate on the design and implementation of IT architecture for ongoing transportation projects. My role also includes contributing to the design of IT architecture for various UK and US-based toll locations and subway and transportation systems in Spain.
 
         Technologies:
 
@@ -118,7 +118,8 @@ experience:
       role: Script developer & Team Leader
       location: Madrid
       description: |
-        At Nexthink, I had the privilege of managing a small team of hybrid developers and sysadmins, where I was responsible for automating repetitive tasks for L1 and L2 IT departments using a combination of SCCM, Puppet, a human agent, and AI with chat functionality. During my time at Nexthink, I gained extensive experience in automating various IT tasks using PowerShell and bash scripting. For instance, I developed automated solutions to help users with slow-performing mail clients and replace vulnerable Tomcat files on all desktop machines. My team and I worked collaboratively to ensure that our automation solutions were effective, efficient, and user-friendly. We were dedicated to continuously improving our processes and technologies to better serve the needs of our clients and their users.        
+        At Nexthink, I managed a small team of hybrid developers and sysadmins, where I was responsible for automating repetitive tasks for L1 and L2 IT departments using a combination of Scripting, human agents, and an AI with chat functionality. During my time at Nexthink, I gained extensive experience in automating various IT tasks using PowerShell and bash scripting. For instance, I developed automated solutions to help users with slow-performing mail clients and replace vulnerable Tomcat files on all server machines.     
+
         Technologies:
 
         + Microsoft services: DNS, DHCP, Active directory, GPOs.
@@ -132,9 +133,9 @@ experience:
       tags: Full time, remote
       date: 2018 +3
       role: Systems architect & Sysadmin
-      location: Madrid
+      location: Madrid, Oslo, Trondheim
       description: |
-        Sopra is a company that offers a wide range of IT services focused on the business sector, including development, infrastructure support, cybersecurity, and systems operations. In my role as a senior sysadmin and architect at an oil and gas industry Norwegian company, I was responsible for managing the company's distributed datacenters in Oslo and Trondheim. I worked collaboratively with a team of sysadmins located in Norway, while I was based in Spain. My responsibilities included implementing new systems, processes, managing the storage solution, and clustering Microsoft services such as DNS, DHCP, IIS, AD, and DFS. I also attended L3 support requests when necessary, ensuring that the company's IT infrastructure was running smoothly and efficiently.
+        Sopra is a company that offers a wide range of IT services focused on the business sector, including development, infrastructure support, cybersecurity, and systems operations. In my role as a senior sysadmin and architect at an oil and gas industry Norwegian company, I was responsible for managing the company's distributed datacenters in Oslo and Trondheim. I worked collaboratively with a team of sysadmins located in Norway, while I was based in Spain. My responsibilities included implementing new systems, processes, managing the storage solution, and clustering Microsoft services such as DNS, DHCP, IIS, AD, and DFS. I also attended L3 support requests when necessary.
 
         Technologies:
 
@@ -150,7 +151,7 @@ experience:
       role: Systems architect & Sysadmin
       location: Madrid
       description: |
-        At Prosodie, an MSP specializing in development, infrastructure support, and systems operations, I had the opportunity of managing the infrastructure for a leading telecom operator in the Spanish market. My focus was on overseeing their vSphere and Wintel infrastructure, ensuring its stability and efficiency. In addition to managing the infrastructure, I also handled L2 and L3 support cases, addressing technical issues promptly and effectively to minimize downtime and ensure smooth operations for the telecom operator.
+        At Prosodie, an MSP specializing in development, infrastructure support, and systems operations, I had the opportunity of managing the infrastructure for a leading telecom operator in the Spanish market. My focus was on overseeing their vSphere and Wintel infrastructure, ensuring its stability and efficiency. Additionally, I also handled L2 and L3 support cases, addressing technical issues to minimize downtime and ensure smooth operations for the telecom operator.
 
         Technologies:
 
@@ -163,9 +164,9 @@ experience:
       tags: Full time.
       date: 2014 +2
       role: Systems architect & Sysadmin
-      location: Madrid, London
+      location: Madrid, London, Paris
       description: |
-        At BNP, a multinational bank with a presence in Spain, I had the opportunity to manage the bank's infrastructure hosted in France and London. My primary responsibility was to assist the team in the handover of IT operations from the London team to the Spanish team, ensuring a smooth transition and continuity of services. In addition to this, I managed a farm of virtual servers and the automated virtual machine delivery system, ensuring that the bank's IT infrastructure was running efficiently.
+        At BNP, a multinational bank with a presence in Spain, I managed the bank's infrastructure hosted in Paris and London. My primary responsibility was to assist the team in the handover of IT operations from the London team to the Spanish team, ensuring a smooth transition and continuity of services. In addition to this, I managed a farm of virtual servers and the automated virtual machine delivery system.
  
         Technologies:
 
@@ -181,7 +182,7 @@ experience:
       role: Team Leader & Systems architect & Sysadmin
       location: Madrid
       description: |
-        At SGAIM, a company specializing in digital transformation and document management, I had the privilege of leading the transformation of the IT infrastructure. The infrastructure was composed of separate datacenters and locations, some of which were overseas, and required a comprehensive approach to ensure redundancy, high availability, and disaster recovery. In my role, I was responsible for the design, implementation, management, and budget of the IT team. I worked collaboratively with a team of professionals to ensure that the transformation was successful.
+        At SGAIM, a company specializing in digital transformation and document management, I had the privilege of leading the transformation of the IT infrastructure. The infrastructure was composed of separate datacenters and locations, some of which were overseas, and required a comprehensive approach to ensure redundancy, high availability, and disaster recovery. In my role, I was responsible for the design, implementation, management, and budget of the IT team. I worked collaboratively with a small team of professionals to ensure that the transformation was successful.
 
         Technologies:
 
@@ -200,7 +201,7 @@ experience:
       role: Systems architect & Sysadmin
       location: Madrid
       description: |
-        At Mr Houston, an MSP, I had the chance to manage and design solutions for small office/home office (SOHO) customers. I worked collaboratively with a team of professionals to ensure that the solutions were tailored to the unique needs of each customer, delivering high-quality IT services and solutions that helped them achieve their business objectives. In addition to managing and designing solutions for SOHO customers, I also coordinated the migration of one of our major customers after a merge.
+        At Mr Houston, an MSP, I had the chance to manage and design solutions for small office/home office (SOHO) customers. I worked with a team of professionals to ensure that the solutions were tailored to the unique needs of each customer, delivering high-quality IT services and solutions that helped them achieve their business objectives. In addition, I also coordinated the migration of one of our major customers after a merge.
 
         Technologies:
         
@@ -216,7 +217,7 @@ experience:
       role: Sysadmin & application support
       location: Madrid
       description: |
-        At Zasylogic, a company that builds and maintains call center software and SaaS call center solutions, I managed the internal IT infrastructure and the co-located SaaS services' infrastructure. I worked collaboratively with a team of professionals to ensure that the infrastructure was running efficiently, delivering high-quality IT services and solutions to our customers. In addition to managing the infrastructure, I also provided application support for the core application developed by Zasylogic. This required a deep understanding of the application and its functionalities, as well as the ability to troubleshoot and resolve issues quickly.
+        At Zasylogic, a company that builds and maintains call center software and SaaS call center solutions, I managed the internal IT infrastructure and the co-located SaaS services' infrastructure. I collaborated with a team of professionals to ensure that the infrastructure was running efficiently. In addition, I also provided application support for the core application developed by Zasylogic. This required a deep understanding of the application and its functionalities, as well as the ability to troubleshoot and resolve issues quickly.
 
         Technologies:
         
