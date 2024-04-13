@@ -312,21 +312,52 @@ skill:
   description:
   items:
   groups:
-    - name: Development
+
+    - name: Administration
       item:
-        - Bash
-        - PowerShell
-        - Python
-        - YAML
-        - JSON
-    - name: Devops
+        - Active directory, ADLDS, GPOs.
+        - DNS, DHCP.
+        - DFS, NFS.
+        - WSUS, LEMMS.
+        - Antivirus servers, EDR, XDR.
+
+    - name: Development & Devops
       item:
-        - Docker
-        - Ansible
-    - name: Group C Skills
+        - Bash.
+        - Git.
+        - PowerShell.
+        - Python.
+        - YAML.
+        - JSON.
+        - Docker.
+        - Ansible.
+        - Oracle cloud.
+    
+    - name: Networking
       item:
-        - Skill H
-        - Skill I
+        - Cisco L2 Switches.
+        - OPNSense firewall.
+        - FortiNet Firewall.
+
+    - name: Operating systems
+      item:
+        - Debian, Ubuntu server.
+        - Windows server, Windows 10.
+        - RHEL, Rocky, Alma, CentOS.
+        - Mac OS, OSX Server.
+
+    - name: Storage
+      item:
+        - IBM Spectrum Scale.
+        - EMC VNX.
+        - Brocade switches.
+
+    - name: Virtualization
+      item:
+        - Hyper V.
+        - Proxmox VE.
+        - vSphere.
+        - Xen Server.
 
 education:
   show: true
