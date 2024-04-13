@@ -9,7 +9,7 @@ contact:
   # meta
   location: Madrid, Spain # location
   email: javier.santiago@msn.com    # email address
-  phone: +34 622 518 706 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: javierspn.github.io/online-resume     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
@@ -21,7 +21,7 @@ contact:
   # contact
   wechat:                  # username
   whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram: https://t.me/javierspn     # username          | https://t.me/username
+  telegram: # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
   line:                    # lineid            | https://line.me/R/ti/p/@lineid
   viber:                   # username          | https://vb.me/username
@@ -382,6 +382,11 @@ certificate:
   description:
   items:
 
+    - name: Programming for Everybody (Getting Started with Python)
+      issuer: University of Michigan, Irvine
+      date: 2022
+      link: 'https://coursera.org/verify/824PQEM3958F'
+
     - name: Introduction to Project Management
       issuer: University of California, Irvine
       date: 2021
@@ -537,11 +542,15 @@ interest:
     I am passionate about IT and I have a homelab with some services published on the web for internal use.
 
   items:
-    - item: Plants and nature.
-      link: 
-    - item: Hiking
-      link:
-    - item: Homelab
+    - item: Introduction to Algae
+      link: 'https://coursera.org/verify/PYX4VFSEFYMR'
+    - item: 'Understanding Plants -  Part I: What a Plant Knows'
+      link: 'https://coursera.org/verify/A7AEWP9K8SKN'
+    - item: 'Understanding Plants -  Part II: Fundamentals of Plant Biology'
+      link: 'https://coursera.org/verify/P3QZPZRVDBNT'
+    - item: 'Herbal Medicine'
+      link: 'https://coursera.org/verify/9GJZRFL6N4BT'
+    - item: Homelab and homelab community
       link: https://www.reddit.com/r/homelab/
 
 evaluation:
