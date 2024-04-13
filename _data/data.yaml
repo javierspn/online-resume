@@ -2,7 +2,7 @@ basic:
   name: Javier Santiago              # name
   title: Systems architect           # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
