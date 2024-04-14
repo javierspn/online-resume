@@ -331,10 +331,10 @@ skill:
 
     - name: Storage
       item:
+        - Brocade switches
         - IBM Spectrum Scale
         - EMC VNX
         - Veeam
-        - Brocade switches
 
     - name: Virtualization
       item:
