@@ -10,7 +10,7 @@ contact:
   location: Madrid, Spain # location
   email: javier.santiago@msn.com    # email address
   phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: javierspn.github.io/online-resume     # site URL without schema, like example.com, will automatically prepand "https://"
+  website: cv.badboi.win     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
