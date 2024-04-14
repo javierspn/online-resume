@@ -157,6 +157,7 @@ experience:
 
         + DNS, DHCP, Active directory, GPOs, WSUS.
         + Windows Server, vSphere.
+        + Veeam.
         + PowerShell.
 
     - company: BNP
@@ -297,49 +298,50 @@ skill:
 
     - name: Administration
       item:
-        - Active directory, ADLDS, GPOs.
-        - DNS, DHCP.
-        - DFS, NFS.
-        - WSUS, LEMMS.
-        - Antivirus servers, EDR, XDR.
+        - Active directory, ADLDS, GPOs
+        - DNS, DHCP
+        - DFS, NFS
+        - WSUS, LEMMS
+        - Antivirus servers, EDR, XDR
 
     - name: Development & Devops
       item:
-        - Bash.
-        - Git.
-        - PowerShell.
-        - Python.
-        - YAML.
-        - JSON.
-        - Docker.
-        - Ansible.
-        - Oracle cloud.
+        - Bash
+        - Git
+        - PowerShell
+        - Python
+        - YAML
+        - JSON
+        - Docker
+        - Ansible
+        - Oracle cloud
     
     - name: Networking
       item:
-        - Cisco L2 Switches.
-        - OPNSense firewall.
-        - FortiNet Firewall.
+        - Cisco L2 Switches
+        - OPNSense firewall
+        - FortiNet Firewall
 
     - name: Operating systems
       item:
-        - Debian, Ubuntu server.
-        - Windows server, Windows 10.
-        - RHEL, Rocky, Alma, CentOS.
-        - Mac OS, OSX Server.
+        - Debian, Ubuntu server
+        - Windows server, Windows 10
+        - RHEL, Rocky, Alma, CentOS
+        - Mac OS, OSX Server
 
     - name: Storage
       item:
-        - IBM Spectrum Scale.
-        - EMC VNX.
-        - Brocade switches.
+        - IBM Spectrum Scale
+        - EMC VNX
+        - Veeam
+        - Brocade switches
 
     - name: Virtualization
       item:
-        - Hyper V.
-        - Proxmox VE.
-        - vSphere.
-        - Xen Server.
+        - Hyper V
+        - Proxmox VE
+        - vSphere
+        - Xen Server
 
 education:
   show: true
