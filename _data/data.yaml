@@ -592,6 +592,6 @@ credits:
   order: 15
   title: Credits
   description: |
-    This resume is based on tarrex' online resume template: https://github.com/tarrex/online-resume. Give him a star if you like it.
+    This resume is based on tarrex' <a href=https://github.com/tarrex/online-resume>online resume template</a>. Give him a star if you like it.
 
 close: <strong>Sorry, my resume has been hidden.</strong>
