@@ -1,0 +1,17 @@
+{%- assign credits = data.credits %}
+{%- if credits and credits.show %}
+<section class="credits" style="order: {{ credits.order | default: 1 }}">
+  <div class="section-title">
+    <i class="section-icon fa-solid fa-user"></i>
+    <h2>{{ credits.title }}</h2>
+  </div>
+
+  <div class="section-content">
+    {%- if credits.description.size > 0 %}
+    <div class="description markdown">
+      {{ credits.description | markdownify }}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}

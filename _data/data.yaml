@@ -110,7 +110,7 @@ experience:
         + KVM, Proxmox, Hyper V, vSphere, Docker.
         + Bash, Git, Ansible.
         + Debian, RHEL, Oracle Linux, Windows Server.
-  
+
     - company: Nexthink
       link: https://www.nexthink.com/
       tags: Full time, remote
@@ -118,7 +118,7 @@ experience:
       role: Script developer & Team Leader
       location: Madrid
       description: |
-        At Nexthink, I managed a small team of hybrid developers and sysadmins, where I was responsible for automating repetitive tasks for L1 and L2 IT departments using a combination of Scripting, human agents, and an AI with chat functionality. During my time at Nexthink, I gained extensive experience in automating various IT tasks using PowerShell and bash scripting. For instance, I developed automated solutions to help users with slow-performing mail clients and replace vulnerable Tomcat files on all server machines.     
+        At Nexthink, I managed a small team of hybrid developers and sysadmins, where I was responsible for automating repetitive tasks for L1 and L2 IT departments using a combination of Scripting, human agents, and an AI with chat functionality. During my time at Nexthink, I gained extensive experience in automating various IT tasks using PowerShell and bash scripting. For instance, I developed automated solutions to help users with slow-performing mail clients and replace vulnerable Tomcat files on all server machines.
 
         Technologies:
 
@@ -168,7 +168,7 @@ experience:
       location: Madrid, London, Paris
       description: |
         At BNP, a multinational bank with a presence in Spain, I managed the bank's infrastructure hosted in Paris and London. My primary responsibility was to assist the team in the handover of IT operations from the London team to the Spanish team, ensuring a smooth transition and continuity of services. In addition to this, I managed a farm of virtual servers and the automated virtual machine delivery system.
- 
+
         Technologies:
 
         + DNS, DHCP, Active directory, GPOs, WSUS.
@@ -205,7 +205,7 @@ experience:
         At Mr Houston, an MSP, I had the chance to manage and design solutions for small office/home office (SOHO) customers. I worked with a team of professionals to ensure that the solutions were tailored to the unique needs of each customer, delivering high-quality IT services and solutions that helped them achieve their business objectives. In addition, I also coordinated the migration of one of our major customers after a merge.
 
         Technologies:
-        
+
         + Microsoft services: DNS, DHCP, Active directory, GPOs, WSUS.
         + DFS, NFS.
         + Windows Server, vSphere, Hyper V.
@@ -221,7 +221,7 @@ experience:
         At Zasylogic, a company that builds and maintains call center software and SaaS call center solutions, I managed the internal IT infrastructure and the co-located SaaS services' infrastructure. I collaborated with a team of professionals to ensure that the infrastructure was running efficiently. In addition, I also provided application support for the core application developed by Zasylogic. This required a deep understanding of the application and its functionalities, as well as the ability to troubleshoot and resolve issues quickly.
 
         Technologies:
-        
+
         + Microsoft services: DNS, DHCP, Active directory, GPOs, WSUS.
         + DFS, NFS.
         + Windows Server.
@@ -237,11 +237,11 @@ experience:
         At Accelya, a provider of airline billing software and related tools for billing settlement, I had the opportunity to provide support for internal billing applications. Working closely with a dedicated team, I ensured that the billing applications ran smoothly, addressing any issues promptly to minimize disruptions and ensure accurate billing processes for our clients. In addition to supporting internal billing applications, I played a key role in the migration and upgrade of legacy billing systems. This involved careful planning, coordination, and execution to ensure a seamless transition to modernized systems while maintaining data integrity and system reliability.
 
         Technologies:
-        
+
         + DNS, DHCP, Active directory.
         + Bash.
         + DFS, NFS.
-        + Windows Server. 
+        + Windows Server.
         + vSphere.
 
     - company: IECISA (acquired by INETUM)
@@ -254,9 +254,9 @@ experience:
         At IECISA, an MSP and tech equipment vendor, I provided support for internal courier and inventory applications for the IT assets. I ensured that the applications ran smoothly and efficiently, addressing any issues promptly to maintain the integrity and availability of the IT assets. My role involved collaborating with various teams across the organization to ensure that the courier and inventory applications were aligned with business needs and that they supported the efficient management of IT assets.
 
         Technologies:
-        
+
         + Bash.
-        + Windows. 
+        + Windows.
 
 project:
   show: false
@@ -315,7 +315,7 @@ skill:
         - Docker
         - Ansible
         - Oracle cloud
-    
+
     - name: Networking
       item:
         - Cisco L2 Switches
@@ -347,12 +347,12 @@ education:
   show: true
   order: 5
   title: Education
-  description:     
+  description:
   items:
     - institution: Universidad complutense de Madrid
       link: 'https://www.ucm.es/'
       date: 1994 + 3
-      major: Political science 
+      major: Political science
       degree: Bachelor
       description:
 
@@ -408,18 +408,18 @@ certificate:
       issuer: Microsoft
       date: 2016
       link: 'https://learn.microsoft.com/en-us/training/'
-    
+
     - name: CCENT (Cisco certified entrey networking technician)
       issuer: Cisco
       date: 2014
       link: 'https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry.html'
-    
+
     - name: ACTC (Apple certified technical coordinator)
       issuer: Apple
       date: 2010
       link: 'https://www.apple.com/ca/education/docs/Apple-TrainingCertificationCatalogWeb.pdf'
       description:
-    
+
     - name: MCSA (Microsoft certified solutions associate)
       issuer: Microsoft
       date: 2009
@@ -513,7 +513,7 @@ language:
   show: true
   order: 11
   title: Languages
-  description: 
+  description:
   items:
     - idiom: Spanish
       level: Native
@@ -525,9 +525,10 @@ interest:
   order: 12
   title: Interests
   description: |
-    Plants and animals. Everything alive and moving, actually. 
+    Plants and animals. Everything alive and moving, actually.
     I enjoy long hikes learning about new plants and its properties and observing animal behaviour. I have courses on Plant and Algae biology and Herbal medicine and I can easily identify medical properties for many species of plants in the wild and those who are edible.
     I am passionate about IT and I have a homelab with some services published on the web for internal use.
+    This resume is based on github's tarrex template: https://github.com/tarrex/online-resume.
 
   items:
     - item: Introduction to Algae
@@ -585,5 +586,12 @@ reference:
       phone: 444-555-666
       description: |
         Bar Two was my advisor at Example University.
+
+credits:
+  show: true
+  order: 15
+  title: Credits
+  description: |
+    This resume is based on tarrex' online resume template: https://github.com/tarrex/online-resume. Give him a star if you like it.
 
 close: <strong>Sorry, my resume has been hidden.</strong>
