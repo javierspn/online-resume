@@ -370,6 +370,11 @@ certificate:
   description:
   items:
 
+    - name: Terraform basics training course
+      issuer: KodeKloud
+      date: 2024
+      link: 'https://kodekloud.com/certificate-verification/2DECE3BF20B2-2DECDDC96464-2DECDD7E54C4/'
+
     - name: GIT for Beginners
       issuer: KodeKloud
       date: 2024
