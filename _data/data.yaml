@@ -95,10 +95,25 @@ experience:
   title: Experience
   description:
   items:
-    - company: Transportation engineering company
-      link: '#'
+    - company: Confidential
+      link: h
       tags: Full-time
-      date: 2023 +
+      date: 2024 to 2025
+      role: Team Leader
+      location: Madrid
+      description: |
+        Team Lead for the internal IT support team. Assisting and leading the migration to Azure cloud services and IT transformation of the company. I am responsible for managing a team of IT professionals, providing guidance and support to ensure the successful implementation of IT projects and initiatives. My role also includes collaborating with other departments to identify and address IT needs, developing and implementing IT strategies, and ensuring the efficient operation of IT systems and services.
+
+        Technologies:
+
+        + Azure.
+        + PowerShell.
+        + Bash, Git, Ansible.
+        + Debian, RHEL, Oracle Linux, Windows Server.
+    - company: SICE
+      link: https://www.sice.com/en/
+      tags: Full-time
+      date: 2023 to 2024
       role: Linux administrator & Systems architect
       location: Madrid
       description: |
