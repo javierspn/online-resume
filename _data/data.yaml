@@ -385,6 +385,16 @@ certificate:
   description:
   items:
 
+    - name: Financial primer for absolute beginners
+      issuer: Fervent
+      date: 2025
+      link: 'ude.my/UC-4172e48c-f6af-4de8-93e6-7f5572dd2040'
+
+    - name: Cloud Sales Associate Advanced Backup
+      issuer: Acronis
+      date: 2024
+      link: 'https://www.credly.com/badges/d900fdf4-f0fe-4b3b-9053-525fe398dcf3/public_url'
+
     - name: Terraform basics training course
       issuer: KodeKloud
       date: 2024
