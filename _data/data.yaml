@@ -8,7 +8,7 @@ basic:
 contact:
   # meta
   location: Madrid, Spain # location
-  email: javier.santiago@msn.com    # email address
+  email: #javier.santiago@msn.com    # email address
   phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: cv.badboi.win     # site URL without schema, like example.com, will automatically prepand "https://"
 
