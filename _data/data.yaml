@@ -574,7 +574,9 @@ interest:
       link: 'https://coursera.org/verify/P3QZPZRVDBNT'
     - item: 'Herbal Medicine'
       link: 'https://coursera.org/verify/9GJZRFL6N4BT'
-    - item: Homelab and homelab community
+    - item: My homelab
+      link: https://land.theminion.win:444/
+    - item: Homelab community
       link: https://www.reddit.com/r/homelab/
 
 evaluation:
