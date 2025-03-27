@@ -385,7 +385,27 @@ certificate:
   description:
   items:
 
-    - name: Financial primer for absolute beginners
+    - name: Kubernetes for the Absolute Beginners - Hands-on
+      issuer: Kodekloud
+      date: 2025
+      link: 'ude.my/UC-c796de2a-f2be-4f02-83b4-a741cfcec03b'
+
+    - name: Building Microservices with Azure container apps
+      issuer: Memi Lavi
+      date: 2025
+      link: 'ude.my/UC-aab1c71f-7b3b-43cc-b8ef-bf2d7b6d989d'
+
+    - name: Introduction to Service Management with ITIL 4
+      issuer: Dion training
+      date: 2025
+      link: 'ude.my/UC-889092a1-2a2f-4e92-b430-a2be3c12ddd4'
+
+    - name: The Complete Foundation Stock Trading Course
+      issuer: Bloom team
+      date: 2025
+      link: 'ude.my/UC-f5484c3c-20dd-463a-a7e8-9ad55c80d26d'
+
+    - name: Financial math primer for absolute beginners
       issuer: Fervent
       date: 2025
       link: 'ude.my/UC-4172e48c-f6af-4de8-93e6-7f5572dd2040'
