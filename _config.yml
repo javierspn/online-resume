@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 title: Online Resume
 url:
-baseurl:
+baseurl: https://cv.badboi.win
 
 # Sass setting
 sass:
@@ -11,7 +11,7 @@ sass:
 # Custom
 lang: en
 open: true                  # show or hide your resume
-allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
+allow_search_engines: false  # allow your resume indexing by search engine, 'true' or 'false'
 analytics:
   google:                   # google analytics
   cloudflare:               # cloudflare analytics
